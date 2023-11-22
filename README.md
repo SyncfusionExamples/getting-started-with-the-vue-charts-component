@@ -29,7 +29,7 @@ Export Charts to PDF documents or as image formats such as SVG, PNG and JPEG, as
 ## Related links
 [Learn More about Vue Charts](https://www.syncfusion.com/vue-components/vue-charts?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-grid-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/vue?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
 
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
 
