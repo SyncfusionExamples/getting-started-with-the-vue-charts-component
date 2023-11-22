@@ -1,5 +1,13 @@
 # getting-started-with-the-vue-charts-component
-The [Vue Charts](https://www.syncfusion.com/vue-components/vue-charts?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples is a well-crafted charting component for visualizing data in both mobile and web applications. A quick start Vue project that shows how to add Vue Charts component to a Vue project using the Vue CLI. This project also includes a code snippet to populate data and set series types in charts and add legends, data labels, and tooltips. 
+The [Vue Charts](https://www.syncfusion.com/vue-components/vue-charts?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples) is a well-crafted charting component for visualizing data in both mobile and web applications. A quick start Vue project that shows how to add Vue Charts component to a Vue project using the Vue CLI. This project also includes a code snippet to populate data and set series types in charts and add legends, data labels, and tooltips. 
+
+## Project prerequisites
+
+Make sure that you have the latest versions of Vue, Node, Vue class component, and Visual Studio Code in your machine before starting to work on this project.
+
+### How to run this application?
+
+To run this application, you need to clone the `getting-started-with-the-vue-charts` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `npm run serve` command.
 
 ## Features and Benefits
 
@@ -35,7 +43,6 @@ Export Charts to PDF documents or as image formats such as SVG, PNG and JPEG, as
 
 [Online example](https://ej2.syncfusion.com/vue/demos/#/bootstrap5/chart/over-view.html?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
 
-[Knowledge base](https://support.syncfusion.com/kb/web/category/73?utm_source=github&utm_medium=listing&utm_campaign=vue-chart-github-samples)
 
 
 ## About Syncfusion Vue Components
