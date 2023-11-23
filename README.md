@@ -13,7 +13,7 @@ To run this application, you need to clone the `getting-started-with-the-vue-cha
 
 ### Data Editing
 
-Vue Charts with Rich UI provides drag and drop support to the rendered points. Data editing allows you to manipulate the data on a chart.
+Vue Charts with Rich UI provides drag and drop support to the rendered points. [Data editing](https://ej2.syncfusion.com/vue/documentation/chart/data-editing?utm_source=github&utm_medium=listing&utm_campaign=vue-charts-github-samples) allows you to manipulate the data on a chart.
 
 ### Performance
 
